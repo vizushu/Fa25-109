@@ -4,6 +4,8 @@ This repo contains the code for my COGS 109 final project, using the
 **Most Streamed Spotify Songs 2024** dataset and a set of KNN regression models
 to predict **All Time Rank**.
 
+Code and analysis for my final project are in this repo: Fa25-109 (Spotify KNN model, All Time Rank as target; matches slides 19–26).
+
 The main script includes:
 - Basic EDA (summary stats, correlations, histogram of target)
 - Feature selection and train/test split
@@ -38,5 +40,4 @@ You can download the dataset from Kaggle:
 ### 1. Clone the repo
 
 ```bash
-git clone <THIS-REPO-URL>.git
-cd <THIS-REPO-NAME>
+git clone <git@github.com:vizushu/Fa25-109.git>.git
