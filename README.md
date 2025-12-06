@@ -40,4 +40,9 @@ You can download the dataset from Kaggle:
 ### 1. Clone the repo
 
 ```bash
-git clone <git@github.com:vizushu/Fa25-109.git>.git
+git clone https://github.com/vizushu/Fa25-109.git
+cd Fa25-109
+
+```bash
+pip install -r requirements.txt
+python3 cogs109_knn_renier.py
